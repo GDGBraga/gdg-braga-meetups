@@ -4,7 +4,7 @@
 
 GDG Braga and Startup Braga hosted the Next '17 Extended event in the city of Braga.
 
-## Agendas
+## Agenda
 
 18h00 – Welcome and get together
 
