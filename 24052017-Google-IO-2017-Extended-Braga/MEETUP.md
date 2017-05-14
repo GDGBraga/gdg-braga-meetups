@@ -8,6 +8,6 @@ GDG Braga and Seegno will host the Google I/O 2017 Extended event in the city of
 
 19h30 – Highlights from Google I/O 2017
 
-20h00 – Tech talk: Android testing
+20h00 – Tech talk: "Testing the Android way" - [Fábio Barbosa](https://github.com/FabioCB)
 
-**More details soon.**
+Confirm your seat here: https://www.meetup.com/GDG-Braga/events/239351008/ 

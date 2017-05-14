@@ -8,7 +8,7 @@ Join us on slack at `gdgbraga.slack.com`
 
 # Meetups
 
-### #2 - [Google I/O Extended ’17](24052017-Google-IO-2017-Extended-Braga/MEETUP.md)
+### #2 - [Google I/O Extended ’17 (24/05/2017)](24052017-Google-IO-2017-Extended-Braga/MEETUP.md)
 
  Join us to find all about the hottest news of this year's Google I/O and also for talk about Android testing.
 
