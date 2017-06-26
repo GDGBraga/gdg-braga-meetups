@@ -8,6 +8,10 @@ Join us on slack at `gdgbraga.slack.com`
 
 # Meetups
 
+### #3 - [Firebase Functions for Startups)](01072017-Firebase-Functions-for-Startups/MEETUP.md)
+
+ Join us to get your hands on work with guided codelabs about Firebase.
+
 ### #2 - [Google I/O Extended ’17 (24/05/2017)](24052017-Google-IO-2017-Extended-Braga/MEETUP.md)
 
  Join us to find all about the hottest news of this year's Google I/O and also for talk about Android testing.
