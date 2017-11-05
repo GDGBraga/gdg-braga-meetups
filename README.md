@@ -8,7 +8,11 @@ Join us on slack at `gdgbraga.slack.com`
 
 # Meetups
 
-### #3 - [Firebase Functions for Startups)](01072017-Firebase-Functions-for-Startups/MEETUP.md)
+### #4 - [Docker & Kubernetes](15112017-Docker-Kubernetes/MEETUP.md)
+
+ In cooperation with DevOps Braga (https://www.meetup.com/DevOps-Braga/events/244478067/), we will host the meetup Docker & Kubernetes.
+
+### #3 - [Firebase Functions for Startups](01072017-Firebase-Functions-for-Startups/MEETUP.md)
 
  Join us to get your hands on work with guided codelabs about Firebase.
 
